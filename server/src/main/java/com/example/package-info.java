@@ -1,6 +1,5 @@
-
 /**
- * this is a package name
+ * this is a sample comment
  */
 package com.example;
 
